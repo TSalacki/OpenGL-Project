@@ -1,0 +1,30 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (gl_05.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\meshcontoller.h(454): warning C4838: konwersja z „double” do „GLfloat” wymaga konwersji zawężającej
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\meshcontoller.h(439): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\meshcontoller.h(440): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\meshcontoller.h(441): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\meshcontoller.h(442): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\meshcontoller.h(443): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\meshcontoller.h(444): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\meshcontoller.h(445): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\objectsets.h(51): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\objectsets.h(52): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\objectsets.h(53): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\objectsets.h(54): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\objectsets.h(55): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\main.cpp(194): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\main.cpp(347): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\main.cpp(348): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\main.cpp(352): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\main.cpp(353): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\main.cpp(355): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\main.cpp(356): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\main.cpp(363): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\meshcontoller.h(53): warning C4715: "MeshContoller::getIndicesArray”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\meshcontoller.h(34): warning C4715: "MeshContoller::getVerticesArray”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\solidmeshcontoller.h(25): warning C4715: "SolidMeshContoller::getVerticesArray”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\tomek\desktop\gkom\zt1-mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\gl_05\solidmeshcontoller.h(35): warning C4715: "SolidMeshContoller::getIndicesArray”: niewszystkie ścieżki kodu zwracają wartość
+  Trwa generowanie kodu
+  Zakończono generowanie kodu
+  gl_05.vcxproj -> C:\Users\Tomek\Desktop\GKOM\ZT1-Mlyn-master-b2d4d893b2ecc5544a869de117e3d4853e937b64\Debug\projekt.exe
